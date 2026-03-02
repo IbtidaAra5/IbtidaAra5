@@ -39,36 +39,36 @@ An intelligent six-legged robotic system capable of autonomous navigation using 
 
 It also supports wireless remote control for manual navigation and testing. This project integrates embedded systems, sensor modules, and control logic to build a responsive robotic platform.
 
+🔗https://github.com/IbtidaAra5/AI-Powered-HEXAPOD-for-Autonomous-and-Wireless-Controlled-Navigation
 ---
-
 ### 🔹 Smart Cargo Storage System  
 **An Automated Approach to Airport Safety & Security**
 
 A smart automation-based solution designed to improve airport cargo safety through controlled access and structured monitoring. The system focuses on secure storage management, operational efficiency, and minimizing human error in sensitive environments.  
 
 It emphasizes safety, reliability, and systematic cargo handling processes.
-
+🔗https://github.com/IbtidaAra5/Smart-Cargo-Storage-System
 ---
 
-### 🔹 Patient Care System – Curex
+### 🔹 Patient Care System – Curex Mobile App
 A web-based healthcare management system developed to streamline patient record handling, appointment scheduling, and service management. The platform ensures organized data storage and easier administrative access.  
 
 Curex aims to improve workflow efficiency while maintaining simplicity and usability for healthcare providers.
-
+🔗https://github.com/IbtidaAra5/Curex-Mobile-app-Design
 ---
 
-### 🔹 Laundry Service Management System
+### 🔹 Laundry Service Management System-CleanCare
 A structured role-based web application that manages laundry operations efficiently. The system includes separate dashboards for Admin, Staff, and Customers to handle order tracking, service updates, and workflow organization.  
 
 It focuses on improving operational transparency and enhancing overall service experience.
-
+🔗https://github.com/IbtidaAra5/CleanCare
 ---
 
-### 🔹 UIU Social Media
+### 🔹 UIU Social media -UIU Connect+
 A university-focused social networking platform designed to promote interaction among students. The system enables content sharing, communication, and engagement within an academic community.  
 
 The project emphasizes structured interaction and user-friendly interface design.
-
+🔗https://github.com/IbtidaAra5/UIU-Connect-
 ---
 
 ### 📫 Contact
