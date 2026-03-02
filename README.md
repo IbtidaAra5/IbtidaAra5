@@ -19,7 +19,7 @@ I enjoy learning by building projects and continuously improving my technical fo
 ### 🛠️ Technical Skills
 
 **Programming Languages:**  
-C, C++, Java  
+C, C++, Java ,Python 
 
 **Web Technologies:**  
 HTML, CSS, JavaScript, PHP  
@@ -28,7 +28,7 @@ HTML, CSS, JavaScript, PHP
 MySQL  
 
 **Tools & Platforms:**  
-Git, GitHub, VS Code  
+Git, GitHub, VS Code ,Figma 
 
 ---
 
@@ -74,6 +74,7 @@ The project emphasizes structured interaction and user-friendly interface design
 ### 📫 Contact
 📧 Email:
 ....  ibtidaara5@gmail.com
+
 🌐 GitHub:
 https://github.com/IbtidaAra5
 
