@@ -73,13 +73,49 @@ Curex aims to improve workflow efficiency while maintaining simplicity and usabi
 
 ExpenseMate is a mobile expense tracking app designed for university students and young professionals who want a simple, low-friction way to log income and expenses and stay on top of their monthly budget. This repository contains the UI/UX wireframes and design documentation created using a design-thinking approach (Figma, low-fidelity prototyping).
 
-techologies used:
-ui-ux  wireframing  figma mobile-app expense-tracker design-thinking case-study
+## Features
+- **Income & Expense Tracking** – Record and manage daily transactions.
+- **Smart Categorization** – Organize by Food, Transport, Bills, and more.
+- **Visual Analytics** – Track spending with charts and graphs.
+- **Expense History** – Filter transactions by day, week, or month.
+- **Budget Management** – Set and track monthly budgets.
+- **Payment Reminders** – Alerts for bills and budget limits.
+- **Search & Filter** – Find transactions quickly.
+- **Transaction Notes** – Add notes to expenses.
+- **Financial Reports** – Clear income and expense summaries.
+- **Secure Authentication** – Sign up and log in securely.
+- **Light & Dark Mode** – Switch between themes.
+- **Cloud Sync** – Backed up and synced across devices.
+- **Export Data** – Download reports as PDF or CSV.
+- **Profile Management** – Update account and personal info.
 
-🔗https://github.com/IbtidaAra5/Curex-Mobile-app-Design
-
+🔗https://github.com/IbtidaAra5/ExpenseMate
 
 ---
+
+ # # 🐾 Pawsitive Tails Veterinary Care
+
+A comprehensive vetenery website dedicated to deliverying high quality,compassionate medical care for pets.A frontend demo of a veterinary care platform where pet owners can manage everything about their pets' healthcare in one place.
+
+## Features
+-  Simple demo login
+-  Pet profiles — add pets with species, breed, age, and health notes
+- Appointment booking with vet & time selection
+- Vet directory with ratings & reviews
+- Services & pricing catalog
+-  Billing — invoice history with Card, bKash, and Cash payment options
+- Pharmacy — order medicines, with prescription verification for restricted items
+- In-app messaging with the front desk
+
+## Tech Stack
+HTML, CSS, JavaScript (vanilla, no frameworks)
+
+## Status: Work in progress — actively adding features and UI polish
+
+🔗https://github.com/IbtidaAra5/PetCare-Pawsitive-Tails
+
+---
+
 
 ### 🔹 Laundry Service Management System-CleanCare
 A structured role-based web application that manages laundry operations efficiently. The system includes separate dashboards for Admin, Staff, and Customers to handle order tracking, service updates, and workflow organization.  
@@ -88,8 +124,8 @@ It focuses on improving operational transparency and enhancing overall service e
 
 🔗https://github.com/IbtidaAra5/CleanCare
 
----
 
+---
 
 
 ### 🔹 UIU Social media -UIU Connect+
@@ -98,7 +134,8 @@ A university-focused social networking platform designed to promote interaction 
 The project emphasizes structured interaction and user-friendly interface design.
 
 
-🔗https://github.com/IbtidaAra5/UIU-Connect-
+🔗https://github.com/IbtidaAra5/UIU_Connect+
+
 
 ---
 
