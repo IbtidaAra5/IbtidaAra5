@@ -68,6 +68,19 @@ Curex aims to improve workflow efficiency while maintaining simplicity and usabi
 
 ---
 
+
+### 🔹 ExpenseMate – Mobile App
+
+ExpenseMate is a mobile expense tracking app designed for university students and young professionals who want a simple, low-friction way to log income and expenses and stay on top of their monthly budget. This repository contains the UI/UX wireframes and design documentation created using a design-thinking approach (Figma, low-fidelity prototyping).
+
+techologies used:
+ui-ux  wireframing  figma mobile-app expense-tracker design-thinking case-study
+
+🔗https://github.com/IbtidaAra5/Curex-Mobile-app-Design
+
+
+---
+
 ### 🔹 Laundry Service Management System-CleanCare
 A structured role-based web application that manages laundry operations efficiently. The system includes separate dashboards for Admin, Staff, and Customers to handle order tracking, service updates, and workflow organization.  
 
