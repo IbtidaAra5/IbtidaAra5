@@ -53,8 +53,7 @@ A smart automation-based solution designed to improve airport cargo safety throu
 It emphasizes safety, reliability, and systematic cargo handling processes.
 
 
-🔗https://github.com/IbtidaAra5/Smart-Cargo-Storage-System
-
+🔗https://github.com/IbtidaAra5/Cargo-Storage-System
 
 ---
 
