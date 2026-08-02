@@ -119,7 +119,7 @@ HTML, CSS, JavaScript (vanilla, no frameworks)
 
 A complete UX redesign of Crimson Cup Bangladesh's website, built to fix real usability issues found through a Nielsen heuristic evaluation of the live site. The project moves through mood boarding and a full style guide (color, typography, spacing) into responsive, high-fidelity mockups for both desktop and mobile — applying visual hierarchy, unified navigation, and a clear primary CTA to solve the original site's ordering-flow and consistency problems.
 
-🔗https://github.com/IbtidaAra5/CleanCare
+🔗https://github.com/IbtidaAra5/Website-UI-Redesign-CRIMSON-CUP
 
 
 
