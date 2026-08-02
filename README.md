@@ -115,6 +115,13 @@ HTML, CSS, JavaScript (vanilla, no frameworks)
 
 ---
 
+### 🔹Crimson Cup Bangladesh — Website UI Redesign
+
+A complete UX redesign of Crimson Cup Bangladesh's website, built to fix real usability issues found through a Nielsen heuristic evaluation of the live site. The project moves through mood boarding and a full style guide (color, typography, spacing) into responsive, high-fidelity mockups for both desktop and mobile — applying visual hierarchy, unified navigation, and a clear primary CTA to solve the original site's ordering-flow and consistency problems.
+
+🔗https://github.com/IbtidaAra5/CleanCare
+
+
 
 ### 🔹 Laundry Service Management System-CleanCare
 A structured role-based web application that manages laundry operations efficiently. The system includes separate dashboards for Admin, Staff, and Customers to handle order tracking, service updates, and workflow organization.  
