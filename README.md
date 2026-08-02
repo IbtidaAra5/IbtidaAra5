@@ -127,13 +127,13 @@ It focuses on improving operational transparency and enhancing overall service e
 ---
 
 
-### 🔹 UIU Social media -UIU Connect+
+### 🔹 UIU Social media UIU-Connect-
 A university-focused social networking platform designed to promote interaction among students. The system enables content sharing, communication, and engagement within an academic community.  
 
 The project emphasizes structured interaction and user-friendly interface design.
 
 
-🔗https://github.com/IbtidaAra5/UIU_Connect+
+🔗https://github.com/IbtidaAra5/UIU-Connect-
 
 
 ---
