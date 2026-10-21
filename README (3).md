@@ -27,7 +27,7 @@
 <a href="mailto:ibtidaara5@gmail.com"><img src="https://img.shields.io/badge/Email-ibtidaara5%40gmail.com-6b9ac4?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/IbtidaAra5"><img src="https://img.shields.io/badge/GitHub-IbtidaAra5-6b9ac4?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-6b9ac4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<img src="https://komarev.com/ghpvc/?username=IbtidaAra5&label=Profile%20views&color=7fb7ae&style=flat-square" alt="Profile views">
+
 
 </div>
 
