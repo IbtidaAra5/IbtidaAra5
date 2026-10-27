@@ -71,42 +71,37 @@ I'm a CSE undergraduate at **United International University, Dhaka**, intereste
 
 ## Featured Projects
 
-> Tap a section to expand it.
+> Tap a section to expand it. Each project lists what it does, what it is built with, its main features, and a link to the repo.
 
 <details open>
 <summary><b>🔬 Research & AI</b></summary>
 
 <br>
 
-**[🌿 Green LLM Token Research](https://github.com/IbtidaAra5/sustainable_green-llm-token-research-edu)** — *Reducing token waste in student LLM use*
-Can prompt optimization cut unnecessary token use in university tasks without hurting answer quality? Tested on 100 tasks across 5 categories with 4 models (800 primary runs, temperature 0, seed 42).
-Early results: **23.67%** total-token reduction on Gemma 3 4B and **17.16%** on Ministral 3 3B. Cross-model analysis is in progress.
-`Python` `Ollama` `Google Colab` `JSONL / CSV`
+**🌿 Green LLM Token Research**
+
+Can prompt optimization cut unnecessary token use in student tasks without hurting answer quality?
+- 🧰 **Built with:** Python, Ollama, Google Colab, JSONL / CSV
+- ✨ **Features:** 100 tasks across 5 categories · 4 models (Gemma 3 4B, Llama 3.2 3B, Qwen2.5 3B, Ministral 3 3B) · 800 primary runs at temperature 0, seed 42 · early results: **23.67%** fewer tokens on Gemma 3 4B and **17.16%** on Ministral 3 3B
+- 🔗 **Repo:** [sustainable_green-llm-token-research-edu](https://github.com/IbtidaAra5/sustainable_green-llm-token-research-edu)
 
 <br>
 
-**[⚖️ Bangla Traffic Law MCQ Dataset & Benchmark](https://github.com/IbtidaAra5/BanglaTrafficLaw-MCQ-Dataset-Benchmark)** — *Native Bangla legal MCQs from the Road Transport Act, 2018*
-A manually verified Bangla question set built from the Bangladesh Road Transport Act, 2018, covering several MCQ formats (single correct, multiple correct, case-based, assertion-reason, fill in the blank, true/false). It supports research on legal AI in a low-resource language and feeds into my final year project on trust calibration in legal AI.
-`Bangla NLP` `Legal AI` `Dataset Construction`
+**⚖️ Bangla Traffic Law MCQ Dataset & Benchmark**
+
+A native Bangla multiple-choice benchmark built from the Bangladesh Road Transport Act, 2018, to test how well language models know a local statute.
+- 🧰 **Built with:** Bangla-language dataset built from the official government text, with manual verification
+- ✨ **Features:** **296** hand-checked MCQs, each written by one team member and verified by another · direct-recall and scenario-style questions · simple three-part scoring (accuracy, factual error, hallucination)
+- 🔗 **Repo:** [BanglaTrafficLaw-MCQ-Dataset-Benchmark](https://github.com/IbtidaAra5/BanglaTrafficLaw-MCQ-Dataset-Benchmark)
 
 <br>
 
-**[💬 Aiva: From Friend to Partner](https://github.com/IbtidaAra5/Aiva-consent-aware_romantic_Ai-companion)** — *Consent-aware relationship transitions in AI companions*
-An HCI project (Group Orange) on how an AI companion should handle a shift from friendly to romantic interaction. Built from a 17-person survey, 5 interviews, nine paper sketches, and a high-fidelity Figma prototype, then tested with 8 participants (41 of 48 task attempts completed).
-`Figma` `Miro` `Usability Testing` `Affinity Diagramming`
+**💬 Aiva: From Friend to Partner**
 
-<details>
-<summary>The three major user tasks</summary>
-
-<br>
-
-1. **Choose how romance can begin:** set a starting mode (Friend, Neutral, or Affectionate Partner) and change it later.
-2. **Respond to a romantic shift:** recognize a change in tone and accept, decline, postpone, or stay neutral.
-3. **Slow, stop, or reverse romance:** ask Aiva to slow down, stop romantic content, or return to friendship.
-
-Testing showed the like/dislike controls were unclear, so five screens were revised to improve conversational input, response tutorials, and settings discovery.
-
-</details>
+An HCI project (Group Orange) on how an AI companion should handle a shift from friendly to romantic interaction.
+- 🧰 **Built with:** Figma, Miro, usability testing, affinity diagramming
+- ✨ **Features:** 24-screen high-fidelity prototype · three user tasks (choose how romance begins, respond to a romantic shift, slow or stop it) · 17-person survey, 5 interviews, 8 test participants · 85.4% task completion (41 of 48 attempts)
+- 🔗 **Repo:** [Aiva-consent-aware_romantic_Ai-companion](https://github.com/IbtidaAra5/Aiva-consent-aware_romantic_Ai-companion)
 
 </details>
 
@@ -115,21 +110,30 @@ Testing showed the like/dislike controls were unclear, so five screens were revi
 
 <br>
 
-**[🏥 Curex: Patient Care System](https://github.com/IbtidaAra5/Curex_Mobile_App_Design)** — *Healthcare management app design*
-Streamlines patient records, appointment scheduling, and service management while staying simple for healthcare providers.
-`Figma` `Mobile UI`
+**🏥 Curex: Patient Care System**
+
+A high-fidelity healthcare app design connecting patients with doctors, pharmacies, and emergency services.
+- 🧰 **Built with:** Figma (iOS and Android interfaces)
+- ✨ **Features:** Doctor consultation and pharmacy order flows · SOS alert and ambulance booking · interactive body map · nearby hospitals and pharmacies map · geo-targeted health alerts · reusable design system
+- 🔗 **Repo:** [Curex_Mobile_App_Design](https://github.com/IbtidaAra5/Curex_Mobile_App_Design)
 
 <br>
 
-**[☕ Crimson Cup Bangladesh: Website UI Redesign](https://github.com/IbtidaAra5/Website-UI-Redesign-CRIMSON-CUP)** — *UX redesign driven by heuristic evaluation*
-Fixes usability issues found through a Nielsen heuristic evaluation of the live site, moving from mood boarding and a style guide to responsive, high-fidelity desktop and mobile mockups with a clear primary CTA and unified navigation.
-`Heuristic Evaluation` `Style Guide` `High-Fidelity Mockups`
+**☕ Crimson Cup Bangladesh: Website UI Redesign**
+
+A usability-focused redesign of the Crimson Cup Bangladesh website, driven by a Nielsen heuristic evaluation.
+- 🧰 **Built with:** Heuristic evaluation, mood board, style guide, high-fidelity mockups
+- ✨ **Features:** Documented usability issues · mood board and style guide · responsive desktop and mobile mockups · clear primary CTA and unified navigation
+- 🔗 **Repo:** [Website-UI-Redesign-CRIMSON-CUP](https://github.com/IbtidaAra5/Website-UI-Redesign-CRIMSON-CUP)
 
 <br>
 
-**[💸 ExpenseMate](https://github.com/IbtidaAra5/ExpenseMate)** — *Mobile expense tracker for students and young professionals*
-Wireframes and design documentation made with a design-thinking approach. Covers income and expense tracking, smart categorization, analytics, budgets, reminders, light and dark mode, and PDF/CSV export.
-`Figma` `Wireframing` `Design Thinking`
+**💸 ExpenseMate**
+
+A mobile expense tracker for university students and young professionals to manage income, expenses, and monthly budgets.
+- 🧰 **Built with:** Figma (low-fidelity wireframes), design thinking
+- ✨ **Features:** Income and expense tracking · smart categorization · analytics · budgets and reminders · light and dark mode · PDF/CSV export
+- 🔗 **Repo:** [ExpenseMate](https://github.com/IbtidaAra5/ExpenseMate)
 
 </details>
 
@@ -138,25 +142,39 @@ Wireframes and design documentation made with a design-thinking approach. Covers
 
 <br>
 
-**[🧺 CleanCare](https://github.com/IbtidaAra5/CleanCare)** — *Laundry service management system*
-Role-based web app with separate dashboards for Admin, Staff, Delivery, and Customers. Orders move through a logged status flow from pickup to delivery, with a live tracking timeline and notifications.
-`PHP` `MySQL` `JavaScript` `Chart.js`
+**🧺 CleanCare**
+
+A multi-role laundry service management system that replaces paper slips and phone calls with one live order pipeline.
+- 🧰 **Built with:** PHP (PDO), MySQL, JavaScript, HTML, CSS, Chart.js
+- ✨ **Features:** Dashboards for Admin, Staff, Delivery, and Customer · order creation with animated tracking timeline · status history log and notifications · price estimator · light/dark mode · CSRF protection and role-based access
+- 🔗 **Repo:** [CleanCare](https://github.com/IbtidaAra5/CleanCare)
 
 <br>
 
-**[⚡ IRONPULSE](https://github.com/IbtidaAra5/IRONPULSE)** — *Software project*
-<!-- TODO: add a one-line description and tech tags for IRONPULSE -->
+**⚡ IRONPULSE**
+
+A role-based gym management web platform covering members, trainers, plans, progress, and payments.
+- 🧰 **Built with:** HTML5, CSS3, JavaScript (front end complete); PHP and MySQL backend in progress
+- ✨ **Features:** Admin dashboard with KPIs · add and assign members and trainers · trainer diet plan builder and workout routine builder · progress logs and reports · chat · landing page with plans in BDT
+- 🔗 **Repo:** [IRONPULSE](https://github.com/IbtidaAra5/IRONPULSE)
 
 <br>
 
-**[🎓 UIU-Connect+](https://github.com/IbtidaAra5/UIU_Connect_Plus)** — *University social networking platform*
-Content sharing, communication, and engagement within an academic community, with a user-friendly interface.
+**🎓 UIU-Connect+**
+
+A social networking platform for the UIU community of students, faculty, alumni, and staff.
+- 🧰 **Built with:** PHP 8, MySQL, PDO, HTML5, CSS3 (glassmorphism), JavaScript, AJAX
+- ✨ **Features:** Role-based registration and access · news feed with likes, comments, and follows · real-time direct and group messaging · course groups and document sharing · events, jobs, and marketplace · admin moderation and analytics
+- 🔗 **Repo:** [UIU_Connect_Plus](https://github.com/IbtidaAra5/UIU_Connect_Plus)
 
 <br>
 
-**[🐾 Pawsitive Tails Veterinary Care](https://github.com/IbtidaAra5/PetCare-Pawsitive-Tails)** — *Frontend demo of a vet care platform* 🚧
-Pet profiles, appointments, a vet directory, billing (Card, bKash, Cash), pharmacy orders with prescription checks, and in-app messaging.
-`HTML` `CSS` `JavaScript`
+**🐾 Pawsitive Tails Veterinary Care**
+
+A frontend demo of a veterinary care platform 🚧
+- 🧰 **Built with:** HTML, CSS, JavaScript
+- ✨ **Features:** Pet profiles · appointments · vet directory · billing (Card, bKash, Cash) · pharmacy orders with prescription checks · in-app messaging
+- 🔗 **Repo:** [PetCare-Pawsitive-Tails](https://github.com/IbtidaAra5/PetCare-Pawsitive-Tails)
 
 </details>
 
@@ -165,13 +183,20 @@ Pet profiles, appointments, a vet directory, billing (Card, bKash, Cash), pharma
 
 <br>
 
-**[🕷️ AI-Powered Hexapod](https://github.com/IbtidaAra5/AI-Powered-HEXAPOD-for-Autonomous-and-Wireless-Controlled-Navigation)** — *Autonomous and wireless-controlled navigation*
-A six-legged robot that detects obstacles, adapts its path in real time, and keeps its movement coordinated across varied environments, with wireless remote control for manual navigation and testing.
+**🕷️ AI-Powered Hexapod**
+
+A low-cost six-legged robot for autonomous and wireless-controlled navigation.
+- ✨ **Features:** Autonomous movement · obstacle avoidance · balance maintenance · manual control through wireless communication
+- 🔗 **Repo:** [AI-Powered-HEXAPOD-for-Autonomous-and-Wireless-Controlled-Navigation](https://github.com/IbtidaAra5/AI-Powered-HEXAPOD-for-Autonomous-and-Wireless-Controlled-Navigation)
 
 <br>
 
-**[🧳 Smart Cargo Storage System](https://github.com/IbtidaAra5/Cargo_Storage_System)** — *Automated airport cargo safety*
-Controlled access and structured monitoring for secure storage management, operational efficiency, and fewer human errors.
+**🧳 Smart Cargo Storage System**
+
+An automated approach to airport cargo safety and security.
+- 🧰 **Built with:** Arduino UNO, MFRC522 RFID reader, HC-SR04 ultrasonic sensor, MQ-2 gas sensor, LDR, servo, relay and water pump, I2C LCD
+- ✨ **Features:** RFID access control · entry counting shown on LCD · automatic fire detection and suppression · smart lighting · independent fire-safety failsafe loop
+- 🔗 **Repo:** [Cargo_Storage_System](https://github.com/IbtidaAra5/Cargo_Storage_System)
 
 </details>
 
@@ -180,13 +205,21 @@ Controlled access and structured monitoring for secure storage management, opera
 
 <br>
 
-**[🕹️ Pocket Arcade](https://github.com/IbtidaAra5/Pocket_Arcade)** — *Game project*
-<!-- TODO: add a one-line description and tech tags for Pocket Arcade -->
+**🕹️ Pocket Arcade**
+
+Six tiny games in one single HTML file that works on phones, tablets, and computers.
+- 🧰 **Built with:** HTML5 Canvas, vanilla JavaScript, no dependencies
+- ✨ **Features:** Snake, Tic Tac Toe, Memory Match, Whack-a-Hamster, Traffic Dodge, and Bubble Shot · touch and keyboard controls · best scores saved in the browser
+- 🔗 **Repo:** [Pocket_Arcade](https://github.com/IbtidaAra5/Pocket_Arcade) · [▶ Play](https://ibtidaara5.github.io/Pocket-Arcade/)
 
 <br>
 
-**[✨ Firefly Dew](https://github.com/IbtidaAra5/Firefly-Dew)** — *Game project*
-<!-- TODO: add a one-line description and tech tags for Firefly Dew -->
+**🪲 Firefly Dew**
+
+A small, calm night game: your light is fading, so find the dew in the dark.
+- 🧰 **Built with:** HTML5 Canvas, vanilla JavaScript, no dependencies
+- ✨ **Features:** Dark field lit only by your own glow · collect dewdrops to glow brighter · avoid drifting wisps · difficulty rises as your score grows · mouse, touch, and keyboard controls
+- 🔗 **Repo:** [Firefly-Dew](https://github.com/IbtidaAra5/Firefly-Dew) · [▶ Play](https://ibtidaara5.github.io/Firefly-Dew/)
 
 </details>
 
@@ -195,13 +228,20 @@ Controlled access and structured monitoring for secure storage management, opera
 
 <br>
 
-**[🧩 Unit Testing Project (STQA)](https://github.com/IbtidaAra5/Unit_Testing_Project-STQA)** — *Software Testing & Quality Assurance course project*
-<!-- TODO: add a one-line description (what was tested, which tools/techniques) -->
+**🧩 Unit Testing Project (STQA)**
+
+A Software Testing & Quality Assurance project: unit tests for a Java Parking Slot Booking system.
+- 🧰 **Built with:** Java, JUnit, PITest 
+- ✨ **Features:** Test classes for Vehicle, Wallet, ParkingSlot, Booking, and ParkingSystem · mutation coverage reports with PITest · documented assumptions and suggested fixes
+- 🔗 **Repo:** [Unit_Testing_Project-STQA](https://github.com/IbtidaAra5/Unit_Testing_Project-STQA)
 
 <br>
 
-**[🧪 System Testing Project (STQA)](https://github.com/IbtidaAra5/System_Testing_Project-STQA)** — *Software Testing & Quality Assurance course project*
-<!-- TODO: add a one-line description (what was tested, which tools/techniques) -->
+**🧪 System Testing Project (STQA)**
+
+A Software Testing & Quality Assurance project on system-level testing.
+
+- 🔗 **Repo:** [System_Testing_Project-STQA](https://github.com/IbtidaAra5/System_Testing_Project-STQA)
 
 </details>
 
@@ -235,3 +275,4 @@ Open to collaboration on **UI/UX, AI, and research projects**. Feel free to reac
 <img src="./footer.svg" alt="" width="100%">
 
 </div>
+
