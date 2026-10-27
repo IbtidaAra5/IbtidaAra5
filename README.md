@@ -62,26 +62,29 @@ mindset: Steady growth through practical learning
 I learn best by building, so most of what I know comes from projects I've shipped, broken, and rebuilt.
 
 ---
-
 ## 02 / TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php,mysql,git,github,vscode,figma&perline=13" alt="Skills">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php,mysql,arduino,git,github,vscode,idea,figma&perline=8" alt="Skills">
 
 </div>
 
-<details>
+<details open>
 <summary><b>See the full list</b></summary>
 
 <br>
 
 | Category | Technologies |
 |---|---|
-| **Languages** | C, C++, Java, Python |
-| **Web** | HTML, CSS, JavaScript, PHP |
+| **Languages** | C, C++, Java, Python, JavaScript, PHP |
+| **Web** | HTML, CSS, JavaScript, PHP, Chart.js |
 | **Database** | MySQL |
-| **Tools** | Git, GitHub, VS Code, Figma |
+| **UI/UX & Research** | Figma, Miro, Wireframing, Prototyping, Heuristic Evaluation, Usability Testing, Affinity Diagramming |
+| **AI & Data** | Ollama, Google Colab, Prompt Optimization, JSONL / CSV datasets |
+| **Embedded & Robotics** | Arduino, ESP32 |
+| **Testing & QA** | JUnit, PITest (mutation testing), Unit and System Testing |
+| **Tools** | Git, GitHub, GitHub Pages, VS Code, IntelliJ IDEA |
 
 </details>
 
