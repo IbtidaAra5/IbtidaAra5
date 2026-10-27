@@ -27,7 +27,6 @@
 <a href="https://github.com/IbtidaAra5"><img src="https://img.shields.io/badge/GITHUB-IbtidaAra5-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="mailto:ibtidaara5@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ibtidaara5%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/ibtida-ara-a505983b4"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<img src="https://komarev.com/ghpvc/?username=IbtidaAra5&label=PROFILE%20VIEWS&color=4A90A4&style=for-the-badge&base=8" alt="Profile views">
 
 </div>
 
@@ -489,13 +488,16 @@ A Software Testing & Quality Assurance project on system-level testing.
 </details>
 
 ---
-
-## 04 / GITHUB STATS
+## 04 / GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=IbtidaAra5&show_icons=true&theme=transparent&hide_border=true&title_color=4A90A4&icon_color=7fb7ae&text_color=6b7f8e" alt="GitHub stats">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbtidaAra5&layout=compact&theme=transparent&hide_border=true&title_color=4A90A4&text_color=6b7f8e" alt="Top languages">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=IbtidaAra5&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=4A90A4&icon_color=7fb7ae&text_color=6b7f8e&ring_color=4A90A4&hide_title=false" alt="Ibtida Ara's GitHub stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbtidaAra5&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=4A90A4&text_color=6b7f8e" alt="Most used languages">
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=IbtidaAra5&theme=transparent&hide_border=true&ring=4A90A4&fire=7fb7ae&currStreakLabel=4A90A4&currStreakNum=6b7f8e&sideNums=6b7f8e&sideLabels=6b7f8e&dates=8a9aa6" alt="Total contributions, current streak and longest streak" width="640">
 
 </div>
 
