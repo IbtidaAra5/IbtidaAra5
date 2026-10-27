@@ -133,7 +133,7 @@ A research study on whether prompt optimization can cut unnecessary token use in
 A native Bangla multiple-choice benchmark built from the Bangladesh Road Transport Act, 2018, to test how well language models know a local statute. Built from the official government text with manual verification.
 
 **Core Components**
-- **296** hand-checked MCQs, each written by one team member and verified by another
+- **299** hand-checked MCQs, each written by one team member and verified by another
 - Direct-recall and scenario-style questions
 - Simple three-part scoring: accuracy, factual error, hallucination
 
